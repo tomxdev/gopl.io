@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554a648e-59c1-4878-b801-4d8baead5a47" name="Changes" comment="init hellow world" />
+    <list default="true" id="554a648e-59c1-4878-b801-4d8baead5a47" name="Changes" comment="definitions idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +32,9 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/Tom"
+    "last_opened_file_path": "C:/Users/Tom",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,7 +44,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
     <MESSAGE value="init hellow world" />
-    <option name="LAST_COMMIT_MESSAGE" value="init hellow world" />
+    <MESSAGE value="echo 1 exercise" />
+    <MESSAGE value="echo 2 exercise" />
+    <MESSAGE value="echo 3 exercise" />
+    <MESSAGE value="duplicate 1 exercise" />
+    <MESSAGE value="definitions idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="definitions idea" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
