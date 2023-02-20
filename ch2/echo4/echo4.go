@@ -1,5 +1,5 @@
 // Echo4 exibe seus argumentos de linha de comando.
-package main
+package echo4
 
 import (
 	"flag"
