@@ -1,5 +1,5 @@
 // Boiling exibe o ponto de ebulição da água.
-package main
+package boiling
 
 import "fmt"
 
