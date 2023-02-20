@@ -1,5 +1,5 @@
 // Ftoc exibe duas conversões de Fahrenheit para Celsius
-package main
+package ftoc
 
 import "fmt"
 
